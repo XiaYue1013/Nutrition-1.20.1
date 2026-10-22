@@ -1,0 +1,21 @@
+﻿{
+    "key.nutrition":  "Abrir nutrición GUI",
+    "gui.nutrition:nutrition_title":  "Nutrición",
+    "gui.nutrition:close":  "Cerrar",
+    "gui.nutrition:updating":  "Actualizando...",
+    "nutrient.nutrition:grain":  "Cereales",
+    "nutrient.nutrition:fruit":  "Fruta",
+    "nutrient.nutrition:vegetable":  "Vegetales",
+    "nutrient.nutrition:protein":  "Proteína",
+    "nutrient.nutrition:dairy":  "Lácteo",
+    "tooltip.nutrition:nutrients":  "Nutrientes:",
+    "potion.nutrition:toughness":  "Dureza",
+    "effect.nutrition.toughness":  "Dureza",
+    "potion.nutrition.toughness":  "Dureza",
+    "potion.nutrition:nourished":  "Nutrido",
+    "effect.nutrition.nourished":  "Nutrido",
+    "potion.nutrition.nourished":  "Nutrido",
+    "potion.nutrition:malnourished":  "Desnutrido",
+    "effect.nutrition.malnourished":  "Desnutrido",
+    "potion.nutrition.malnourished":  "Desnutrido"
+}

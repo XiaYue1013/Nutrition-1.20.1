@@ -1,0 +1,21 @@
+﻿{
+    "key.nutrition":  "Открыть Nutrition GUI",
+    "gui.nutrition:nutrition_title":  "Nutrition",
+    "gui.nutrition:close":  "Закрыть",
+    "gui.nutrition:updating":  "Обновление...",
+    "nutrient.nutrition:grain":  "Зерно",
+    "nutrient.nutrition:fruit":  "Фрукт",
+    "nutrient.nutrition:vegetable":  "Овощь",
+    "nutrient.nutrition:protein":  "Белок",
+    "nutrient.nutrition:dairy":  "Молочный",
+    "tooltip.nutrition:nutrients":  "Nutrients:",
+    "potion.nutrition:toughness":  "Стойкость",
+    "effect.nutrition.toughness":  "Стойкость",
+    "potion.nutrition.toughness":  "Стойкость",
+    "potion.nutrition:nourished":  "Сытый",
+    "effect.nutrition.nourished":  "Сытый",
+    "potion.nutrition.nourished":  "Сытый",
+    "potion.nutrition:malnourished":  "Истощённый",
+    "effect.nutrition.malnourished":  "Истощённый",
+    "potion.nutrition.malnourished":  "Истощённый"
+}

@@ -1,0 +1,21 @@
+﻿{
+    "key.nutrition":  "Open Voeding GUI",
+    "gui.nutrition:nutrition_title":  "Voeding",
+    "gui.nutrition:close":  "Sluiten",
+    "gui.nutrition:updating":  "Updaten...",
+    "nutrient.nutrition:grain":  "Graan",
+    "nutrient.nutrition:fruit":  "Fruit",
+    "nutrient.nutrition:vegetable":  "Groenten",
+    "nutrient.nutrition:protein":  "Proteïne",
+    "nutrient.nutrition:dairy":  "Zuivel",
+    "tooltip.nutrition:nutrients":  "Voeding:",
+    "potion.nutrition:toughness":  "Taaiheid",
+    "effect.nutrition.toughness":  "Taaiheid",
+    "potion.nutrition.toughness":  "Taaiheid",
+    "potion.nutrition:nourished":  "Gevoed",
+    "effect.nutrition.nourished":  "Gevoed",
+    "potion.nutrition.nourished":  "Gevoed",
+    "potion.nutrition:malnourished":  "Ondervoed",
+    "effect.nutrition.malnourished":  "Ondervoed",
+    "potion.nutrition.malnourished":  "Ondervoed"
+}

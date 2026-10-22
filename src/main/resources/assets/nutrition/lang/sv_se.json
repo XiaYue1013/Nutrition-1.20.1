@@ -1,0 +1,21 @@
+﻿{
+    "key.nutrition":  "Öppna Närings GUI",
+    "gui.nutrition:nutrition_title":  "Näring",
+    "gui.nutrition:close":  "Avsluta",
+    "gui.nutrition:updating":  "Uppdaterar...",
+    "nutrient.nutrition:grain":  "Spannmål",
+    "nutrient.nutrition:fruit":  "Frukt",
+    "nutrient.nutrition:vegetable":  "Grönsaker",
+    "nutrient.nutrition:protein":  "Protein",
+    "nutrient.nutrition:dairy":  "Mejeri",
+    "tooltip.nutrition:nutrients":  "Nutrients:",
+    "potion.nutrition:toughness":  "Seghet",
+    "effect.nutrition.toughness":  "Seghet",
+    "potion.nutrition.toughness":  "Seghet",
+    "potion.nutrition:nourished":  "Näring",
+    "effect.nutrition.nourished":  "Näring",
+    "potion.nutrition.nourished":  "Näring",
+    "potion.nutrition:malnourished":  "Underlydande",
+    "effect.nutrition.malnourished":  "Underlydande",
+    "potion.nutrition.malnourished":  "Underlydande"
+}

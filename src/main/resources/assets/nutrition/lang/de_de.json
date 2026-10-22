@@ -1,0 +1,21 @@
+﻿{
+    "key.nutrition":  "Ernährungs-GUI öffnen",
+    "gui.nutrition:nutrition_title":  "Ernährung",
+    "gui.nutrition:close":  "Schließen",
+    "gui.nutrition:updating":  "Aktualisiere...",
+    "nutrient.nutrition:grain":  "Getreide",
+    "nutrient.nutrition:fruit":  "Obst",
+    "nutrient.nutrition:vegetable":  "Gemüse",
+    "nutrient.nutrition:protein":  "Eiweiß",
+    "nutrient.nutrition:dairy":  "Milch",
+    "tooltip.nutrition:nutrients":  "Nährstoffe:",
+    "potion.nutrition:toughness":  "Zähigkeit",
+    "effect.nutrition.toughness":  "Zähigkeit",
+    "potion.nutrition.toughness":  "Zähigkeit",
+    "potion.nutrition:nourished":  "Genährt",
+    "effect.nutrition.nourished":  "Genährt",
+    "potion.nutrition.nourished":  "Genährt",
+    "potion.nutrition:malnourished":  "Unterernährt",
+    "effect.nutrition.malnourished":  "Unterernährt",
+    "potion.nutrition.malnourished":  "Unterernährt"
+}

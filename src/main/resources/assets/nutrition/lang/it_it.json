@@ -1,0 +1,21 @@
+﻿{
+    "key.nutrition":  "Apri interfaccia Nutrizione",
+    "gui.nutrition:nutrition_title":  "Nutrizione",
+    "gui.nutrition:close":  "Chiudi",
+    "gui.nutrition:updating":  "Aggiornando...",
+    "nutrient.nutrition:grain":  "Cereali",
+    "nutrient.nutrition:fruit":  "Frutta",
+    "nutrient.nutrition:vegetable":  "Verdura",
+    "nutrient.nutrition:protein":  "Proteine",
+    "nutrient.nutrition:dairy":  "Latticini",
+    "tooltip.nutrition:nutrients":  "Nutrienti:",
+    "potion.nutrition:toughness":  "Tenacia",
+    "effect.nutrition.toughness":  "Tenacia",
+    "potion.nutrition.toughness":  "Tenacia",
+    "potion.nutrition:nourished":  "Nutrito",
+    "effect.nutrition.nourished":  "Nutrito",
+    "potion.nutrition.nourished":  "Nutrito",
+    "potion.nutrition:malnourished":  "Denutrito",
+    "effect.nutrition.malnourished":  "Denutrito",
+    "potion.nutrition.malnourished":  "Denutrito"
+}

@@ -1,0 +1,21 @@
+﻿{
+    "key.nutrition":  "Open Nutrition GUI",
+    "gui.nutrition:nutrition_title":  "Nutrition",
+    "gui.nutrition:close":  "Close",
+    "gui.nutrition:updating":  "Updating...",
+    "nutrient.nutrition:grain":  "Grain",
+    "nutrient.nutrition:fruit":  "Fruit",
+    "nutrient.nutrition:vegetable":  "Vegetable",
+    "nutrient.nutrition:protein":  "Protein",
+    "nutrient.nutrition:dairy":  "Dairy",
+    "tooltip.nutrition:nutrients":  "Nutrients:",
+    "potion.nutrition:toughness":  "Toughness",
+    "effect.nutrition.toughness":  "Toughness",
+    "potion.nutrition.toughness":  "Toughness",
+    "potion.nutrition:nourished":  "Nourished",
+    "effect.nutrition.nourished":  "Nourished",
+    "potion.nutrition.nourished":  "Nourished",
+    "potion.nutrition:malnourished":  "Malnourished",
+    "effect.nutrition.malnourished":  "Malnourished",
+    "potion.nutrition.malnourished":  "Malnourished"
+}

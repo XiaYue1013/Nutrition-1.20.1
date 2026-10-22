@@ -1,0 +1,11 @@
+.gradle/
+build/
+run/
+logs/
+reference/
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+API_MIGRATION.md
+DECOMPILE_REPORT.md
+PORTING_CHECKLIST.md
+Nutrition-Legacy

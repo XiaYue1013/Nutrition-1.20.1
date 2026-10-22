@@ -1,0 +1,21 @@
+﻿{
+    "key.nutrition":  "Åpen ernæring GUI",
+    "gui.nutrition:nutrition_title":  "Ernæring",
+    "gui.nutrition:close":  "Lukke",
+    "gui.nutrition:updating":  "Oppdaterer...",
+    "nutrient.nutrition:grain":  "Korn",
+    "nutrient.nutrition:fruit":  "Frukt",
+    "nutrient.nutrition:vegetable":  "grønnsaker",
+    "nutrient.nutrition:protein":  "Protein",
+    "nutrient.nutrition:dairy":  "melk",
+    "tooltip.nutrition:nutrients":  "Ernæring:",
+    "potion.nutrition:toughness":  "Seighet",
+    "effect.nutrition.toughness":  "Seighet",
+    "potion.nutrition.toughness":  "Seighet",
+    "potion.nutrition:nourished":  "Ernært",
+    "effect.nutrition.nourished":  "Ernært",
+    "potion.nutrition.nourished":  "Ernært",
+    "potion.nutrition:malnourished":  "Underernært",
+    "effect.nutrition.malnourished":  "Underernært",
+    "potion.nutrition.malnourished":  "Underernært"
+}
